@@ -15,3 +15,9 @@ my_avatar = pa.Avatar(
     clothing_color=pa.ClothingColor.PASTEL_BLUE)
 
 my_avatar.render("my_avatar.svg")
+
+print("Avatar created and saved as my_avatar.svg")
+# The code creates an avatar using the python_avatars library and saves it as an SVG file.
+# You can customize the avatar's features such as style, colors, and accessories.
+# Make sure to have the python_avatars library installed in your environment.
+    
